@@ -1,0 +1,25 @@
+button{
+    margin-top: 10% !important;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+    font-size: 2rem !important;
+    color: #4ECCA3 !important;
+}
+.body{
+    background-image: url(download.jpg);
+    /* background-repeat: no-repeat; */
+    /* width: 100%; */
+}
+h1{
+    margin: 30px;
+    /* text-shadow: 5px 0 #232931; */
+    font-size: 2rem;
+    color: #f7fffc !important;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.container{
+    margin: auto;
+    text-align: center;
+}
+img{
+    /* width: 50%; */
+}
